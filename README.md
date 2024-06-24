@@ -14,6 +14,7 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+<h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -72,3 +73,27 @@
 </div>
 
 ###
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sirinekahweji&show_icons=true&locale=en" alt="sirinekahweji" style="margin-right: 20px;" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirinekahweji&" alt="sirinekahweji" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sirinekahweji&label=Profile%20views&color=0e75b6&style=flat" alt="sirinekahweji" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sirinekahweji" alt="sirinekahweji" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+  </a>
+</p>
