@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SIRINE KAHWEJI</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 👨‍💻 I’m currently studying o **Development of Information Systems at ISET Bizerte**
+- 👨‍💻 I’m currently studying **Development of Information Systems at ISET Bizerte**
 
 - 🌱 I’m currently learning **MERN Stack and Python**
 
