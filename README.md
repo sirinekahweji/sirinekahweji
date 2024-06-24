@@ -85,32 +85,11 @@
   </a>
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bellakhalrania&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-###
 # 📊 GitHub Stats:
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirinekahweji&show_icons=true&locale=en" alt="sirinekahweji" style="margin-right: 20px;" />
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=sirinekahweji&theme=city_light&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirinekahweji&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirinekahweji&" alt="sirinekahweji" />
-</p>
-
-###
-# 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sirinekahweji&label=Profile%20views&color=0e75b6&style=flat" alt="sirinekahweji" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sirinekahweji" alt="sirinekahweji" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a>
-</p>
