@@ -69,6 +69,7 @@
 </div>
 
 ###
+# Connect with me:
 
 <br clear="both">
 
@@ -86,6 +87,7 @@
 
 
 ###
+# 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=sirinekahweji&show_icons=true&locale=en" alt="sirinekahweji" style="margin-right: 20px;" />
@@ -104,7 +106,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sirinekahweji" alt="sirinekahweji" />
   </a>
 </p>
-
+## 🏆 GitHub Trophies
 <p align="left">
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
