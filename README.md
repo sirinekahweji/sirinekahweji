@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋! My name is  SIRINE KAHWEJI</h1>
+<h3 align="center">A passionate full-stack developer</h3>
+
 
 ###
 
+- 👨‍💻 I’m currently studying **Development of Information Systems at ISET Bizerte**
+
+- 🌱 I’m currently learning **MERN Stack and Python**
+
+- 📫 How to reach me **sirinekahweji5@gmail.com**
 <br clear="both">
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
