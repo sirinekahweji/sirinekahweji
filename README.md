@@ -79,9 +79,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-  </a>
+
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -89,9 +87,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sirinekahweji&show_icons=true&locale=en&layout=compact" alt="sirinekahweji" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirinekahweji&" alt="sirinekahweji" />
-</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sirinekahweji&label=Profile%20views&color=0e75b6&style=flat" alt="sirinekahweji" />
