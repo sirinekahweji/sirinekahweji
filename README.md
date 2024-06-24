@@ -97,6 +97,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirinekahweji&" alt="sirinekahweji" />
 </p>
 
+###
+# 🏆 GitHub Trophies
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sirinekahweji&label=Profile%20views&color=0e75b6&style=flat" alt="sirinekahweji" />
 </p>
@@ -106,7 +109,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sirinekahweji" alt="sirinekahweji" />
   </a>
 </p>
-## 🏆 GitHub Trophies
 <p align="left">
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
