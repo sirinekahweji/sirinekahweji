@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently studying **Development of Information Systems at ISET Bizerte**
 
-- 🌱 I’m currently learning **MERN Stack and Python**
+- 🌱 I’m currently learning **Flutter and Python**
 
 - 📫 How to reach me **sirinekahweji5@gmail.com**
        <p align="left">
