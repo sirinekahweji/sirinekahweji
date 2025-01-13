@@ -93,3 +93,23 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sirinekahweji&theme=city_light&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirinekahweji&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
+
+
+
+
+
+###   Most Used Languages 
+ <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirinekahweji&theme=city_light" />
+ <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api?username=sirinekahweji&theme=city_light" />
+ <img alt="talel mejri" src="https://github-readme-streak-stats.herokuapp.com/?username=sirinekahweji&theme=city_light">
+
+<img alt="talel" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sirinekahweji"/>
+
+<img alt="talel"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sirinekahweji"/>
+
+
+<img src="https://api.star-history.com/svg?repos=sirinekahweji/sirinekahweji&type=Date" >
+
+### ✍️ Random Dev Quote
+
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
