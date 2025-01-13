@@ -103,7 +103,7 @@
 <h1 align="left"><u>Github stats</u></h1>
 
 <p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/sirinekahweji/sirinekahweji/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="sirinekahweji" />
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/SirineKahweji/SirineKahweji/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="sirinekahweji" />
 </p>
 
 
