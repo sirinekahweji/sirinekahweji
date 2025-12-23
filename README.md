@@ -5,9 +5,9 @@
 
 ###
 
-- 👨‍💻 I’m currently studying **Development of Information Systems at ISET Bizerte**
+- 👨‍💻 I’m currently studying a **Professional Master’s in Computer Development Engineering, Robotics, and Artificial Intelligence (MP-IDIRIA) at ISET Rades**
 
-- 🌱 I’m currently learning **Flutter and PyTorch**
+- 🌱 I’m currently learning **Power BI and Machine Learning**
 
 - 📫 How to reach me **sirinekahweji5@gmail.com**
        <p align="left">
