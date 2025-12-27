@@ -94,13 +94,14 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bellakhalrania&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sirinekahweji&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-# 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sirinekahweji&theme=city_light&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirinekahweji&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+## 📊 GitHub Stats
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sirinekahweji&theme=city_light&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirinekahweji&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="48%" />
 </div>
+
 
 
 
