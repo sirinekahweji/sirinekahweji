@@ -93,13 +93,15 @@
   </a>
 </div>
 
+
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sirinekahweji&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirinekahweji&theme=city_light&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirinekahweji&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="48%" />
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirinekahweji&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirinekahweji&theme=city_light&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 
