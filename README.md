@@ -5,7 +5,7 @@
 
 ###
 
-- 👨‍💻 I’m currently studying a **Professional Master’s in Computer Development Engineering, Robotics, and Artificial Intelligence (MP-IDIRIA) at ISET Rades**
+- 👨‍💻 Computer Science Engineering student at the National School of Engineering of Sfax.
 
 - 🌱 I’m currently learning **Power BI and Machine Learning**
 
